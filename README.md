@@ -1,5 +1,8 @@
 # Hi there, I'm Mohammad khademi 👋
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtkhademi)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🚀 Full Stack Developer | 💻 Open Source Enthusiast
 
 I build accessible, pixel-perfect, and performant web applications. Currently focused on building products at [Company Name] or learning [New Technology].
