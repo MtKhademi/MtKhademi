@@ -1,33 +1,42 @@
-# Hi there, I'm Mohammad khademi 👋
+# Hi there, I'm MtKhademi 👋
 
+### 🚀 Software Developer | 💻 Tech Enthusiast | 📚 Lifelong Learner
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtkhademi)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🚀 Full Stack Developer | 💻 Open Source Enthusiast
-
-I build accessible, pixel-perfect, and performant web applications. Currently focused on building products at [Company Name] or learning [New Technology].
+Welcome to my GitHub profile! I am passionate about building efficient software and solving real-world problems. Feel free to explore my projects and connect with me.
 
 ---
 
-### 🛠️ Technologies & Tools
-| Frontend | Backend | Database | DevOps |
-| :---: | :---: | :---: | :---: |
-| <img src="https://cdn.simpleicons.org/react" width="40"/> | <img src="https://cdn.simpleicons.org/nodedotjs" width="40"/> | <img src="https://cdn.simpleicons.org/postgresql" width="40"/> | <img src="https://cdn.simpleicons.org/docker" width="40"/> |
-| React | Node.js | PostgreSQL | Docker |
-| <img src="https://cdn.simpleicons.org/tailwindcss" width="40"/> | <img src="https://cdn.simpleicons.org/python" width="40"/> | <img src="https://cdn.simpleicons.org/mongodb" width="40"/> | <img src="https://cdn.simpleicons.org/aws" width="40"/> |
-| Tailwind | Python | MongoDB | AWS |
+### 🛠️ Tech Stack & Tools
+<!-- ⚠️ EDIT THIS SECTION: Replace the links below with your actual skills -->
+| Languages | Frameworks & Libraries | Tools & Platforms |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="110"> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="110"> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="110"> |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="110"> | <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="110"> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="110"> |
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="110"> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="110"> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="110"> |
 
 ---
 
 ### 📊 GitHub Stats
-<!-- Replace 'your-username' with your actual username -->
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+<!-- Your personal stats automatically generated -->
+![MtKhademi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MtKhademi&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MtKhademi&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-### 🤝 Let's Connect
-- 📄 [Resume/CV](link-to-your-resume)
-- 💼 [LinkedIn](link-to-your-linkedin)
-- 🌐 [Portfolio](link-to-your-website)
-- 📧 [Email](mailto:your-email@example.com)
+### 🤝 Connect With Me
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+| **Email** | **Telegram** | **Telegram Channel** |
+| :---: | :---: | :---: |
+| [📧 Email Me](mailto:Mohande3khademi@gmail.com) | [✈️ Contact Me](https://t.me/Mtkhademi) | [📢 Brain Bytes](https://t.me/brain_bytes) |
+| <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150"> | <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="150"> | <img src="https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="150"> |
+
+---
+
+### 📬 Guestbook
+Feel free to leave a message in my [Guestbook](https://github.com/MtKhademi/MtKhademi/issues) (Optional)
+
+---
+<p align="center">
+  <em>Thank you for visiting my profile! Happy Coding! 🚀</em>
+</p>
