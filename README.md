@@ -1,18 +1,20 @@
 # Hi there, I'm MtKhademi 👋
 
-### 🚀 Software Developer | 💻 Tech Enthusiast | 📚 Lifelong Learner
+### 🚀 .NET Developer | 💻 Full Stack Enthusiast | 🏗️ Software Architect in Progress
 
-Welcome to my GitHub profile! I am passionate about building efficient software and solving real-world problems. Feel free to explore my projects and connect with me.
+Welcome to my GitHub profile! I specialize in building scalable backend systems using .NET Core and C#, with a strong focus on clean architecture and microservices.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<!-- ⚠️ EDIT THIS SECTION: Replace the links below with your actual skills -->
-| Languages | Frameworks & Libraries | Tools & Platforms |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="110"> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="110"> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="110"> |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="110"> | <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="110"> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="110"> |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="110"> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="110"> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="110"> |
+### 💪 Skills & Proficiency
+
+| Level | Technologies & Tools |
+| :--- | :--- |
+| **🏆 Advanced** | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Unit_Testing-FF6600?style=for-the-badge&logo=git&logoColor=white" height="25"/> |
+| **🛠️ Intermediate** | <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=entityframework&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/> |
+| **🌱 Beginner** | <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="25"/> |
+
+*Note: I also have experience with Dependency Injection, HTML, CSS, and JavaScript.*
 
 ---
 
@@ -33,10 +35,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ---
 
-### 📬 Guestbook
-Feel free to leave a message in my [Guestbook](https://github.com/MtKhademi/MtKhademi/issues) (Optional)
-
----
 <p align="center">
   <em>Thank you for visiting my profile! Happy Coding! 🚀</em>
 </p>
